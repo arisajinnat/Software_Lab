@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Wedding Photobooth Service",
+      "image": "https://i.ibb.co/7vcTBkS/card1.jpg",
+      "price": "$5,000 - $10,000",
+      "short_description": " Capture every moment beautifully with our professional photography and videography services.",
+      "button_text": "View Details",
+      "details":"Our Wedding Photobooth Service is designed to capture every moment beautifully. We use professional photography and videography equipment to ensure your special day is documented with the utmost precision and artistry. Our experienced photographers and videographers will work discreetly to capture candid moments and staged shots, resulting in a memorable collection of images and videos that you'll cherish forever. From the ceremony to the reception, we're dedicated to preserving every precious moment of your wedding day." 
+    },
+    {
+      "id": 2,
+      "name": "Stage Decoration",
+      "image": "https://i.ibb.co/Mc42ppR/card2.jpg",
+      "price": "Starting at $1,000",
+      "short_description": " From concept to execution, we handle all aspects of your wedding, ensuring a stress-free experience.",
+      "button_text": "View Details",
+      "details":"Our Stage Decoration service is a comprehensive solution for transforming your wedding venue into a dream setting. We handle every aspect, from concept to execution, ensuring a stress-free experience for you. Our team of expert decorators and designers will work closely with you to bring your vision to life. We consider every detail, including color schemes, floral arrangements, lighting, and thematic elements, to create a stunning stage that perfectly complements your wedding theme and style." 
+    },
+    {
+      "id": 3,
+      "name": "Decor with Ceiling",
+      "image": "https://i.ibb.co/kK8SJDh/card3.jpg",
+      "price": "Starting at $2,500",
+      "short_description": "Create a breathtaking atmosphere with our expert decor and design services.",
+      "button_text":"View Details",
+      "details":"Create a breathtaking atmosphere with our Decor with Ceiling service. Our talented decorators specialize in enhancing the beauty of your wedding venue's ceiling. We offer a wide range of decorative elements, including elegant drapery, hanging floral arrangements, and dazzling chandeliers. These elements add a touch of grandeur and romance to your event space, transforming it into a magical wonderland that will leave your guests in awe." 
+    },
+    {
+      "id": 4,
+      "name": "Minimalist Decor",
+      "image": "https://i.ibb.co/tHgPZvN/card4.jpg",
+      "price": "Starting at $3,000",
+      "short_description": " We help you find the perfect venue that matches your vision and budget.",
+      "button_text":"View Details",
+      "details":"Our Minimalist Decor service is ideal for couples who appreciate simplicity and elegance. We work with you to find the perfect venue that matches your minimalist vision and budget. Our team will curate a clean and sophisticated look, incorporating subtle decor elements that highlight the natural beauty of your chosen location. With a focus on quality over quantity, our Minimalist Decor service creates a serene and refined ambiance for your special day." 
+    },
+    {
+      "id": 5,
+      "name": "Corner Decor",
+      "image": "https://i.ibb.co/mcqLLJM/card5.jpg",
+      "price": "Starting at $2,000",
+      "short_description": "Delight your guests with a delectable  experience tailored to your preferences.",
+      "button_text": "View Details",
+      "details":" Delight your guests with our Corner Decor service, designed to add charm and personality to every corner of your wedding venue. We pay attention to the smallest details, ensuring that no space is left untouched. From intimate seating areas to photo-worthy backdrops, our creative decorators infuse every corner with style, ensuring your guests have a delectable visual experience throughout the event." 
+    },
+    {
+      "id": 6,
+      "name": "Haldi Arrangements",
+      "image": "https://i.ibb.co/7v0mqyD/card6.jpg",
+      "price": "Starting at $1,500",
+      "short_description": "Elevate your wedding decor with our exquisite floral arrangements and bouquets.",
+      "button_text": "View Details",
+      "details":" Elevate your wedding decor with our Haldi Arrangements service. We specialize in creating exquisite floral arrangements and bouquets that add a touch of natural beauty to your wedding venue. From vibrant haldi ceremony decor to stunning bouquets for the bridal party, our floral designs are tailored to your preferences and themes, enhancing the overall aesthetic of your wedding. Our goal is to make your special day even more beautiful with our floral expertise." 
+    }
+   
+  ]
+  
